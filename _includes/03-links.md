@@ -1,1 +1,1 @@
-![Github Profile] (https://github.com/95Shafiq)
+![Github Profile](https://github.com/95Shafiq)
