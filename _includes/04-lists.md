@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favourite things
+- Playing football!
+- Watching Anime!
+- Enjoying the warmth of my bed!
